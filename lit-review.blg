@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: lit-review.aux
+The style file: plain.bst
+Database file #1: lit-review.bib.bib
+Warning--there's a number but no volume in Bazzaza2015
+Warning--empty journal in Bernardet2009
+Warning--empty publisher in Chen2016
+Warning--empty journal in Nussbaum2009
+Warning--there's a number but no volume in Hoffmann2013
+Warning--empty journal in Ip2016
+Warning--empty journal in Laffey2009
+Warning--there's a number but no volume in Laffey2009
+Warning--empty journal in Munoz2016
+Warning--empty journal in Pan2006
+Warning--empty journal in Rincon2016
+You've used 31 entries,
+            2118 wiz_defined-function locations,
+            690 strings with 10295 characters,
+and the built_in function-call counts, 10709 in all, are:
+= -- 1033
+> -- 595
+< -- 7
++ -- 235
+- -- 204
+* -- 786
+:= -- 1819
+add.period$ -- 89
+call.type$ -- 31
+change.case$ -- 194
+chr.to.int$ -- 0
+cite$ -- 42
+duplicate$ -- 361
+empty$ -- 754
+format.name$ -- 204
+if$ -- 2166
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 28
+newline$ -- 154
+num.names$ -- 62
+pop$ -- 204
+preamble$ -- 1
+purify$ -- 164
+quote$ -- 0
+skip$ -- 270
+stack$ -- 0
+substring$ -- 609
+swap$ -- 63
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 122
+warning$ -- 11
+while$ -- 112
+width$ -- 33
+write$ -- 318
+(There were 11 warnings)
